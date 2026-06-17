@@ -1,0 +1,5 @@
+Libraries you need to install
+pandas
+numpy
+matplotlib
+yfinance
